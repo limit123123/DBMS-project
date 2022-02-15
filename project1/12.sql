@@ -1,0 +1,1 @@
+SELECT name FROM Pokemon JOIN Evolution ON id = before_id AND before_id > after_id ORDER BY name;

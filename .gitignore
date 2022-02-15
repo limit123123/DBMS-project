@@ -1,0 +1,6 @@
+# build folder 
+build
+simple_test
+
+# shell file 
+*.sh
