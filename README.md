@@ -4,6 +4,10 @@
 
 <h2>Contents</h2>
 
+![DBMS 계층](https://user-images.githubusercontent.com/80969604/160055854-32b3dadf-b681-4572-bf12-159e00b5accf.jpg)
+
+
+
 <ul>
   <li>Disk Based B+ Tree : <a href = "https://github.com/Son-Byeongjae/DBMS-project/wiki/project2-:-Disk-Based-B--Tree" >LINK</a></li> 
   <li>Buffer management : <a href = "https://github.com/Son-Byeongjae/DBMS-project/wiki/project3-:-Buffer-Manager" >LINK</a></li>
